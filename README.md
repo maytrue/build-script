@@ -1,7 +1,4 @@
-build script for ios and android platform 
+Purpose
 ======
-
-# ios platform
-
-## faac build script
+Collectition of build script for android and ios platform
 
